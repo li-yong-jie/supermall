@@ -23,5 +23,6 @@ export default {
 <style scoped > 
 .feature img{
     width: 100%;
+    border-bottom: 1px solid rgb(248, 244, 244);
 }
 </style>
